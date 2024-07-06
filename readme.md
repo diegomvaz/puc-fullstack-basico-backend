@@ -33,3 +33,8 @@ automaticamente após uma mudança no código fonte.
 ```
 
 Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em 
+
+
+## Link para o vídeo de demonstração
+
+https://youtu.be/lGuoYDfWnFY
